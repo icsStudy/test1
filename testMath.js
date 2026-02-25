@@ -7,3 +7,4 @@ function generateCode() {
 
 
 console.log(generateCode())
+//
